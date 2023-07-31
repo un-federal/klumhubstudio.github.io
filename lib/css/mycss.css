@@ -1,0 +1,85 @@
+* {
+	margin: 0;
+}
+
+.mypanel1 {
+		padding-left: 30px;
+}
+
+.myroadmap {
+	padding: 30px;
+}
+
+.spec-max1 {
+	display: flex !important;
+}
+
+
+.spec-max1 h2 {
+padding-right: 40px;
+}
+
+.flag {
+	display: flex;
+	border-style: solid;
+    border-width: 0.5px;
+width: 39em;
+}
+
+.simvolika {
+	display: flex;
+	  justify-content: right;
+	margin-left: 100px;
+}
+
+.myp {
+	font-style: italic;
+}
+
+
+
+.myrules {
+		padding: 30px !important;
+		margin: 30px !important;
+
+}
+
+
+
+
+	
+	.text-ok {
+ background: linear-gradient(90deg, #88cfe8 0%, #f7f5f5 100%);
+ padding: 30px;
+	}
+	
+	.head-ok {
+	 background: linear-gradient(90deg, #88cfe8 0%, #f7f5f5 100%);
+	}
+	.mytheme {
+	 background: linear-gradient(90deg, #88cfe8 0%, #f7f5f5 100%);
+	}
+	
+	.mytitle h2 {
+		color: blue !important;
+		
+	}
+	
+	.mynews {
+		
+		font-weight: bold;
+	}
+	.myformat {
+padding: 30px !important;
+		margin: 30px !important;
+	}
+	
+.col-12 {
+	padding-right: 0px;
+}
+
+.navbar {
+	padding-right: 0px;
+}
+	
+	
