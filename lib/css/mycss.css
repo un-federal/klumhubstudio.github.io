@@ -23,7 +23,12 @@ padding-right: 40px;
 	display: flex;
 	border-style: solid;
     border-width: 0.5px;
-width: 39em;
+width: 40vw;
+}
+.flag img {
+ width: 40vw; /* Задаем ширину картинки в 20% от ширины экрана */
+  height: auto; /* Позволяет сохранять пропорции картинки */
+  max-width: 100%;
 }
 
 .simvolika {
